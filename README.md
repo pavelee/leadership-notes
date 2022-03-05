@@ -36,7 +36,7 @@
         -   niekompetentni podwładni trzymają lidera w bańce
             -   nie informją o rzeczywistym stanie rzeczy
             -   bańka pozwala im utrzmymać pozycje
-        -   żyją w bańce snująć nie rzeczywiste plany przepełnione megalomanią
+        -   lider żyje w bańce snująć nie rzeczywiste plany przepełnione megalomanią
 
 ### Grupa realna
             
