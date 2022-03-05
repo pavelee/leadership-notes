@@ -5,7 +5,9 @@ Moje notatki na temat przywództwa
 
 -   "Prawa Ludzkiej natury" - Robert Greene
 
-## Grupa Realna
+## Znaczenie tworzenia grupy realnej
+
+### Dysfunkcyjna grupa
 
 -   w momencie jak w grupie nie wychodzi praca zaczynamy:
     -   szukać winnych
@@ -34,4 +36,6 @@ Moje notatki na temat przywództwa
         - lider grupy traci kontakt z rzeczywistością
             -   podwładni
             -   żyją w bańce snująć nie rzeczywiste plany przepełnione megalomanią
+
+### Grupa realna
             
