@@ -1,5 +1,4 @@
-# leadership_notes
-Moje notatki na temat przywództwa
+# Notatki na temat przewództwa
 
 ## Źródło
 
@@ -34,7 +33,9 @@ Moje notatki na temat przywództwa
                     -   zyskują zaufanie przewodźcy
                 -   preferowana i nagradzana staje się przeciętność
         - lider grupy traci kontakt z rzeczywistością
-            -   podwładni
+            -   niekompetentni podwładni trzymają lidera w bańce
+                -   nie informją o rzeczywistym stanie rzeczy
+                -   bańka pozwala im utrzmymać pozycje
             -   żyją w bańce snująć nie rzeczywiste plany przepełnione megalomanią
 
 ### Grupa realna
