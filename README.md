@@ -51,13 +51,13 @@
             -   stworzyć produktywną atmosfere i pozytywną presje
 
 ### Grupa realna
-    -   charakteryzuje grupę która ma nieprzerwany kontakt z rzeczywistością
-        -   zespół istnieje po to
-            -   aby robić to co niego należy
-            -   aby tworzyć
-            -   aby rozwiązywać problemy
-    -   funkcjonuje w otoczeniu które jest konkurencyjne i stale się zmienia
-    -   stawia na pracę, efektywne wykorzystywanie zasobów oraz adaptacje do nieuchronnych zmian
-    -   nie marnuje czasu na gierki polityczne
-        -   to daje szanse na 10x większą wydajność niż grupa dysfunkcyjna
-    -   wydobywa od swoich członków to co najlepsze w ludzkiej naturze
+-   charakteryzuje grupę która ma nieprzerwany kontakt z rzeczywistością
+    -   zespół istnieje po to
+        -   aby robić to co niego należy
+        -   aby tworzyć
+        -   aby rozwiązywać problemy
+-   funkcjonuje w otoczeniu które jest konkurencyjne i stale się zmienia
+-   stawia na pracę, efektywne wykorzystywanie zasobów oraz adaptacje do nieuchronnych zmian
+-   nie marnuje czasu na gierki polityczne
+    -   to daje szanse na 10x większą wydajność niż grupa dysfunkcyjna
+-   wydobywa od swoich członków to co najlepsze w ludzkiej naturze
