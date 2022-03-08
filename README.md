@@ -64,7 +64,7 @@
     -   to daje szanse na 10x większą wydajność niż grupa dysfunkcyjna
 -   wydobywa od swoich członków to co najlepsze w ludzkiej naturze
 
-## Wyciąganie tego co najlepsze z ludzi
+## Pozytywne wpływanie na zachowanie i postawe zespołu
 
 -   Zacznij od szczerej pochwały i uznania
 -   Zwaracaj na błędy innych pośrednio
