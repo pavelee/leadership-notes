@@ -2,9 +2,10 @@
 
 ## Źródło
 
--   "Prawa Ludzkiej natury" - Robert Greene
+-   "Prawa ludzkiej natury" - Robert Greene
+-   "Jak zdobyć przyjaciół i zjednać sobie ludzi" - Dale Carnegie
 
-## Znaczenie tworzenia grupy realnej
+## Tworzenia grupy realnej
 
 ### Dysfunkcyjna grupa
 
@@ -49,6 +50,7 @@
         -   skupmy się na grupie i jej ogólnej dynamice
             -   poprawić dynamikę
             -   stworzyć produktywną atmosfere i pozytywną presje
+            -   celem jest stworzyć grupe realna
 
 ### Grupa realna
 -   charakteryzuje grupę która ma nieprzerwany kontakt z rzeczywistością
@@ -61,3 +63,16 @@
 -   nie marnuje czasu na gierki polityczne
     -   to daje szanse na 10x większą wydajność niż grupa dysfunkcyjna
 -   wydobywa od swoich członków to co najlepsze w ludzkiej naturze
+
+## Wyciąganie tego co najlepsze z ludzi
+
+-   Zacznij od szczerej pochwały i uznania
+-   Zwaracaj na błędy innych pośrednio
+-   Zanim skrytykujesz innych, przyznaj się do własnych błędów
+-   Zadawaj pytania, zamiast wydawać rozkazy
+-   Pozwól ludziom zachować twarz
+-   Pochwal najmniejsze nawet osiągniecia, pochwal każdy postęp, bądz szczery w aprobacie i nie skąp pochwał
+-   Wystaw ludziom dobrą opinie której będą musieli sprostać
+-   Zachęcaj innych do poprawy, spraw aby uwierzyli że mogą się zmienić
+-   Spraw aby rozmówca z przyjemnością zrobił to czego oczekujesz
+-   
