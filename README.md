@@ -75,4 +75,3 @@
 -   Wystaw ludziom dobrą opinie której będą musieli sprostać
 -   Zachęcaj innych do poprawy, spraw aby uwierzyli że mogą się zmienić
 -   Spraw aby rozmówca z przyjemnością zrobił to czego oczekujesz
--   
