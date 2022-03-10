@@ -63,6 +63,10 @@
 -   nie marnuje czasu na gierki polityczne
     -   to daje szanse na 10x większą wydajność niż grupa dysfunkcyjna
 -   wydobywa od swoich członków to co najlepsze w ludzkiej naturze
+-   takie grupy pojawiały się rzadko w historii
+    -   wojska Bonapartego
+    -   wczesne etapy IBM
+    -   początki gabinetu Roosevelta
 
 ## Pozytywne wpływanie na zachowanie i postawe zespołu
 
