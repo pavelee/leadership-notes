@@ -148,6 +148,10 @@
     -   zniekształcenie rzeczywistości
         -   podejmowanie złych decyzji
     -   Aby przeciwdziałać bańce musisz zapewnić swobodny przepływ informacji
+        -   o rywalach
+        -   o podwładnych
+        -   to był sukces Napoleona, przeglądał raporty od każdego nawet szeregowych żółnierzy
+            -   dzięki temu zachowywał szeroką perspektywę i dobre decyzje
 
 ## Pozytywne wpływanie na zachowanie i postawe zespołu
 
