@@ -116,33 +116,33 @@
     -   Genialnych ludzi nie brakuje
         -   Natomiast wielu z nich
             -   ma toksyczne osobowości
-            -   nadęte ego
+            -   rozdętę ego
             -   to zabija ducha grupy
-    -   Wybieraj osoby z umiejętnościami których Ci brakuje
-        -   Muszą znać własne role
-        -   Różnorodność jest w cenie
-        -   Chęc do zabierania głosu i inicjatywy
-        -   Mogą działać wbrew regułą które uznają za przestarzałe
-        -   poczucie przynależności do zespołu oraz wykazywania się kreatywnością
-            -   wydobywać to co najlepsze
-            -   taki duch oczekujemy od grupy
-    -   Wszystkich traktuj na równi
-        -   niezależnie czy to asystent, podwładny
-        -   żadnych specjalnych przywilejów
-        -   nagrody i kary rozdzielać sprawiedliwie i proporcjonalnie
-    -   Osób które nie dotrzymują wierności ideałowi należy się pozbywać
-    -   W momencie zatrudniania nowych osób zostaną automatycznie wciągniecie przez zdrową dynamikę
-    -   Musisz być stale na czele
-        -   Równy udział w poświęceniach
-            -   tak samo jak każdy członek zespołu
-            -   dzięki temu podwłądni będą mniej podatni na odczuwanie zazdrości oraz urazy
-                -   omijamy problem podziałówi i machinacji
+-   Wybieraj osoby z umiejętnościami których Ci brakuje
+    -   Muszą znać własne role
+    -   Różnorodność jest w cenie
+    -   Chęc do zabierania głosu i inicjatywy
+    -   Mogą działać wbrew regułą które uznają za przestarzałe
+    -   poczucie przynależności do zespołu oraz wykazywania się kreatywnością
+        -   wydobywać to co najlepsze
+        -   taki duch oczekujemy od grupy
+-   Wszystkich traktuj na równi
+    -   niezależnie czy to asystent, podwładny
+    -   żadnych specjalnych przywilejów
+    -   nagrody i kary rozdzielać sprawiedliwie i proporcjonalnie
+-   Osób które nie dotrzymują wierności ideałowi należy się pozbywać
+-   W momencie zatrudniania nowych osób zostaną automatycznie wciągniecie przez zdrową dynamikę
+-   Musisz być stale na czele
+    -   Równy udział w poświęceniach
+        -   tak samo jak każdy członek zespołu
+        -   dzięki temu podwłądni będą mniej podatni na odczuwanie zazdrości oraz urazy
+            -   omijamy problem podziałówi i machinacji
 
 ### Zapewniaj swobodny przepływ informacji i idei
 
 -   Jak grupa ewoluje to największym ryzykiem jest tworzenie się wokół lidera bańki
     -   Asystenci którzy przejmują obowiązki zaczną Cie izolować od tego co się dzieje w grupie
-        -   filtrować informację będą Ci dostarczać
+        -   filtrować informację które Ci dostarczać
         -   mówić tylko to co Ci się spodoba
         -   ukrywać prawdę o rzeczach o których powinnieneś wiedzieć
     -   zniekształcenie rzeczywistości
@@ -150,8 +150,14 @@
     -   Aby przeciwdziałać bańce musisz zapewnić swobodny przepływ informacji
         -   o rywalach
         -   o podwładnych
-        -   to był sukces Napoleona, przeglądał raporty od każdego nawet szeregowych żółnierzy
-            -   dzięki temu zachowywał szeroką perspektywę i dobre decyzje
+        -   to był sukces Napoleona, przeglądał raporty od każdego, nawet szeregowych żółnierzy
+            -   dzięki temu zachowywał szeroką perspektywę i podejmował dobre decyzje
+            -   chciał jak najwięcej nie przefiltrowanych informacji
+            -   różnorodność raportów (różne osoby) zapewniał sobie świętną klarowność obrazu sytuacji
+    -   Zachęcaj członków swojej grupy do szczerej dyskusji w ramach struktur poziomych i pionowych
+        -   powinni uwierzyć że jest to możliwe
+        -   słuchaj swoim szeregowych pracowników
+        -   umożliwiaj wypowiadanie się otwarcie
 
 ## Pozytywne wpływanie na zachowanie i postawe zespołu
 
