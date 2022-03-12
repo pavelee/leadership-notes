@@ -126,17 +126,21 @@
     -   poczucie przynależności do zespołu oraz wykazywania się kreatywnością
         -   wydobywać to co najlepsze
         -   taki duch oczekujemy od grupy
--   Wszystkich traktuj na równi
-    -   niezależnie czy to asystent, podwładny
-    -   żadnych specjalnych przywilejów
-    -   nagrody i kary rozdzielać sprawiedliwie i proporcjonalnie
+
+### Wszystkich traktuj na równi
+
+-   niezależnie czy to asystent, podwładny
+-   żadnych specjalnych przywilejów
+-   nagrody i kary rozdzielać sprawiedliwie i proporcjonalnie
 -   Osób które nie dotrzymują wierności ideałowi należy się pozbywać
--   W momencie zatrudniania nowych osób zostaną automatycznie wciągniecie przez zdrową dynamikę
--   Musisz być stale na czele
-    -   Równy udział w poświęceniach
-        -   tak samo jak każdy członek zespołu
-        -   dzięki temu podwłądni będą mniej podatni na odczuwanie zazdrości oraz urazy
-            -   omijamy problem podziałówi i machinacji
+-   W momencie zatrudniania nowych osób zostaną automatycznie wciągnieci przez zdrową dynamikę
+
+### Musisz być stale na czele
+
+-   Równy udział w poświęceniach
+    -   tak samo jak każdy członek zespołu
+    -   dzięki temu podwłądni będą mniej podatni na odczuwanie zazdrości oraz urazy
+        -   omijamy problem podziałówi i machinacji
 
 ### Zapewniaj swobodny przepływ informacji i idei
 
@@ -179,7 +183,7 @@
 ### Zarażaj grupę pozytywnymi emocjami
 
 -   w grupie ludzie są bardziej emocjonalni i podatni na nastroje innych
-    -   kieruj to w pozytywną stronę, nasycając grupę odpowiednim zestawem emocji   
+    -   kieruj to w pozytywną stronę, nasycając grupę odpowiednim zestawem emocji
 -   ludzie mają większą podatność na nastroje i postawe lidera niż kogokolwiek innego
     -   jako lider zachowuj spokój
 -   wspomaganie zachowania spokoju zespołu jest znacznie bardziej efektywne niż rozkręcanie emocji
@@ -221,7 +225,7 @@
     -   niektórzy stają na wysokości zadania i w stresie radzą sobie nawet lepiej niż spokojnych okolicznościach
         -   takie osoby to prawdziwy skarb i warto o nie dbać
 -   Prowadź zespół do nowych i bardziej ryzykownych działań
-    -   Obserwuj jak poszczególne osoby reagują na pewien zasób chaosu i niepewności jakie się z tym wiążą 
+    -   Obserwuj jak poszczególne osoby reagują na pewien zasób chaosu i niepewności jakie się z tym wiążą
     -   W momenie jak dochodzi do porażek i kryzysów, wykorzystuj ten moment do oceny ich wewnętrznej siły lub jej braku
     -   możesz tolerować osoby mniejszą wewnętrzną siłą, mogą mieć inne zalety. Nie powinno być takich osób zbyt wiele.
 -   Twoim ostatecznym celem jest stworzenie grupy która uczestniczyła w kilku starciach i poradziłą sobie w ich trakcie całkiem dobrze
@@ -229,7 +233,7 @@
     -   ich członkowie nie tchórzą w obliczu nowych przeszkód
         -   witają z radością przeszkody
     -   dusponująć taką grupą możesz powoli zwiększać zakres wymagań względem ich członków
-        -    będą oczuwać pozytywną presje aby podejmować wyzwania i się sprawdzać
+        -   będą oczuwać pozytywną presje aby podejmować wyzwania i się sprawdzać
     -   taka grupa może przeność góry!
 -   Zapamiętaj! Często skupiwamy się na problemach psychicznych jednostek, natomiast zapominamy że to grupa może mieć wpływ na ich zachowanie
     -   niestabilni i neurotyczni działając w dysfunkcyjnej grupie
