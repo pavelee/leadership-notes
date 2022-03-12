@@ -9,7 +9,7 @@
 
 ### Dysfunkcyjna grupa
 
--   w momencie jak w grupie nie wychodzi praca zaczynamy:
+-   w momencie jak w grupie nie wychodzi praca zaczynamy
     -   szukać winnych
         -   zbyt ambitny przywódca
         -   niekompetentny podwładny
@@ -158,6 +158,27 @@
         -   powinni uwierzyć że jest to możliwe
         -   słuchaj swoim szeregowych pracowników
         -   umożliwiaj wypowiadanie się otwarcie
+            -   bez obawy że zostaną skrytykowani czy wyśmiani
+            -   zależy Ci na różnorodności opinii
+        -   nie syngalizuj podczas dyskusji własnych preferencji dla konkretnych opcji lub decyzji
+            -   w przeciwnym przypadku będziesz subtelnie sugerował aby pożądać Twoim śladem, tego nie chcesz
+        -   sprowadzaj ekspertów i osoby z zewnątrz, rozszerzając perspektywe grupy
+        -   czym bardziej ekspansywny proces rozważań tym większy związek z rzeczywistością i tym lepsze będą Twoje decyzje
+    -   ten proces będzie zabierał czas ale jest to tego warte, nagrodą jest dobra decyzja
+        -   większość osób popełnia bład podejmując błyskawiczne decyzje na podstawie przefiltrowanych informacji
+    -   zachowuj pełną klarowność w prcesie decyzyjnym
+        -   podejmując decyzje informuj zespół skąd się one wzieły i jaki jest ich cel
+    -   rozszerz otwartą komunikacje na zdolność grupy do krytykowania samej siebie i własnej efektywności
+        -   zwłaszcza w następstwie wszelkich błędów czy niepowodzeń
+        -   przekształć to w ożywcze doświadczenie
+        -   nie szukaj kozłów ofiarnych
+            -   szukaj problemów w ogólnym sposobie funkcjonowania grupy który wcześniej nie był wystarczająco produktywny
+    -   zachęcaj do stałego doskonalenia i nauki
+        -   nauka na błędach spowoduje że zespół stanie się zanczeni bardziej pewny siebie i zacznie odważniej podążać na przód
+
+## Zarażaj grupę pozytywnymi emocjami
+
+-   w grupie ludzie są bardziej emocjonalni i podatni na nastroje innych
 
 ## Pozytywne wpływanie na zachowanie i postawe zespołu
 
