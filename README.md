@@ -176,7 +176,7 @@
     -   zachęcaj do stałego doskonalenia i nauki
         -   nauka na błędach spowoduje że zespół stanie się zanczeni bardziej pewny siebie i zacznie odważniej podążać na przód
 
-## Zarażaj grupę pozytywnymi emocjami
+### Zarażaj grupę pozytywnymi emocjami
 
 -   w grupie ludzie są bardziej emocjonalni i podatni na nastroje innych
 
