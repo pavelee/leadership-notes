@@ -1,5 +1,18 @@
 # Notatki na temat przewództwa
 
+-   [Źródło](#źródło)
+-   [Tworzenia grupy realnej](#tworzenia-grupy-realnej)
+    -   [Dysfunkcyjna grupa](#dysfunkcyjna-grupa)
+    -   [Grupa realna](#grupa-realna)
+    -   [Strategie tworzenia grupy realnej](#strategie-tworzenia-grupy-realnej)
+        -   [Zasczepiaj kolektywne poczucie celu](#zasczepiaj-kolektywne-poczucie-celu)
+        -   [Stwórz odpowiedni zespół asystentów](#stwórz-odpowiedni-zespół-asystentów)
+        -   [Wszystkich traktuj na równi](#wszystkich-traktuj-na-równi)
+        -   [Musisz być stale na czele](#musisz-być-stale-na-czele)
+        -   [Zapewniaj swobodny przepływ informacji i idei](#zapewniaj-swobodny-przepływ-informacji-i-idei)
+        -   [Zarażaj grupę pozytywnymi emocjami](#zarażaj-grupę-pozytywnymi-emocjami)
+        -   [Swtórz grupę sprawdzoną w boju](#swtórz-grupę-sprawdzoną-w-boju)
+
 ## Źródło
 
 -   "Prawa ludzkiej natury" - Robert Greene
