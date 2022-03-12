@@ -1,7 +1,7 @@
 # Notatki na temat przewództwa
 
 -   [Źródło](#źródło)
--   [Tworzenia grupy realnej](#tworzenia-grupy-realnej)
+-   [Tworzenie grupy realnej](#tworzenie-grupy-realnej)
     -   [Dysfunkcyjna grupa](#dysfunkcyjna-grupa)
     -   [Grupa realna](#grupa-realna)
     -   [Strategie tworzenia grupy realnej](#strategie-tworzenia-grupy-realnej)
@@ -18,7 +18,7 @@
 -   "Prawa ludzkiej natury" - Robert Greene
 -   "Jak zdobyć przyjaciół i zjednać sobie ludzi" - Dale Carnegie
 
-## Tworzenia grupy realnej
+## Tworzenie grupy realnej
 
 ### Dysfunkcyjna grupa
 
