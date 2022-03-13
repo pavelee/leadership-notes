@@ -302,7 +302,7 @@
     -   zbyt nudne lub łatwe zadania
         -   zespół potrzebuje wyzwań
         -   rozumieć znaczenie wagi dobrego wykonania zadania
-            -  "nie produkujemy poduszek powietrznych, oni produkują bezpieczeństwo dla swoich klientów"
+            -  "nie produkujemy poduszek powietrznych, produkujemy bezpieczeństwo dla swoich klientów"
             -   oprate o wartości zarządzanie likwiduje próżniactwo społeczne!
 
 ## Pozytywne wpływanie na zachowanie i postawe zespołu
