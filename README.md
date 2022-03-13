@@ -278,7 +278,7 @@
 -   dotyczny to zdań fizycznych, także intelektualnych
 -   efekt się pogłębia w momencie zwiększania liczebości grupy
     -   efekt jest już widoczny jak grupa skłąda się z 2-3 osób
-    -   każda kolejna osoba nie skutkuje liniowym spadkiem zaangażowania, spadek słabszy ale jest
+    -   każda kolejna osoba nie skutkuje liniowym spadkiem zaangażowania, natomiast spadek występuje
 -   jesteśmy bardziej podtani na ten efekt w momencie jak od grupy wymaga się dobrego wykonania zadania
 -   praca ze znajomymi redukuje ten efekt
     -   praca w grupach które bardzo cenimy, może całkowicie ten efekt wyeliminować
