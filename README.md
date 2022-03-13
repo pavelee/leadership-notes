@@ -271,7 +271,7 @@
 -   efekt polegający na mniejszym angażowaniu się w czynność wykonywaną grupowo niż w przypadku wykonywania jej indywidualnie
     -   jak wykonujemy czynność samodzielnie staramy się
     -   jak wykonujemy grupowo, nie staramy się już tak mocno
--   efekt najcześciej jest obserwowany w momencie wykonywania czynności addytywne
+-   efekt najcześciej jest obserwowany w momencie wykonywania czynności addytywnych
     -   w momencie kiedy wnik jest zależny od zaangażowania każdego członka grupy
         -   okrzyk grupowy
         -   przeciąganie liny
