@@ -14,6 +14,7 @@
         -   [Swtórz grupę sprawdzoną w boju](#swtórz-grupę-sprawdzoną-w-boju)
 -   [Psychologia grupy i jednostek](#psychologia-grupy-i-jednostek)
     -   [Próżniactwo społeczne](#próżniactwo-społeczne)
+-   [Pozytywne wpływanie na zachowanie i postawe zespołu](#pozytywne-wpływanie-na-zachowanie-i-postawe-zespołu)
 
 ## Źródło
 
