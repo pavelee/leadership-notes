@@ -12,6 +12,8 @@
         -   [Zapewniaj swobodny przepływ informacji i idei](#zapewniaj-swobodny-przepływ-informacji-i-idei)
         -   [Zarażaj grupę pozytywnymi emocjami](#zarażaj-grupę-pozytywnymi-emocjami)
         -   [Swtórz grupę sprawdzoną w boju](#swtórz-grupę-sprawdzoną-w-boju)
+-   [Psychologia grupy i jednostek](#psychologia-grupy-i-jednostek)
+    -   [Próżniactwo społeczne](#próżniactwo-społeczne)
 
 ## Źródło
 
@@ -263,6 +265,9 @@
             -   zdajemy sobie sprawę z własnej społecznej natury i z tego do czego powinniśmy dążyć
 -   Naszym obowiązkiem jako osób oświęconych powinno być tworzenie jak największej ilości grup realnych
     -   sprawimy że zdrowsze stanie się całe społeczeństwo
+
+## Psychologia grupy i jednostek
+### Próżniactwo społeczne
 
 ## Pozytywne wpływanie na zachowanie i postawe zespołu
 
