@@ -17,6 +17,7 @@
 
 -   "Prawa ludzkiej natury" - Robert Greene
 -   "Jak zdobyć przyjaciół i zjednać sobie ludzi" - Dale Carnegie
+-   "PSYCHOefekty. 50 zjawisk psychologicznych, które wpływają na Twoje życie" - Kamil Zieliński
 
 ## Tworzenie grupy realnej
 
