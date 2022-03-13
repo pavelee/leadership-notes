@@ -268,6 +268,42 @@
 
 ## Psychologia grupy i jednostek
 ### Próżniactwo społeczne
+-   efekt polegający na mniejszym angażowaniu się w czynność wykonywaną grupowo niż w przypadku wykonywania jej indywidualnie
+    -   jak wykonujemy czynność samodzielnie staramy się
+    -   jak wykonujemy grupowo, nie staramy się już tak mocno
+-   efekt najcześciej jest obserwowany w momencie wykonywania czynności addytywne
+    -   w momencie kiedy wnik jest zależny od zaangażowania każdego członka grupy
+        -   okrzyk grupowy
+        -   przeciąganie liny
+-   dotyczny to zdań fizycznych, także intelektualnych
+-   efekt się pogłębia w momencie zwiększania liczebości grupy
+    -   efekt jest już widoczny jak grupa skłąda się z 2-3 osób
+    -   każda kolejna osoba nie skutkuje liniowym spadkiem zaangażowania, spadek słabszy ale jest
+-   jesteśmy bardziej podtani na ten efekt w momencie jak od grupy wymaga się dobrego wykonania zadania
+-   praca ze znajomymi redukuje ten efekt
+    -   praca w grupach które bardzo cenimy, może całkowicie ten efekt wyeliminować
+-   powody występowania próżniactwa społecznego:
+    -   rozproszenie odpowiedzialności
+        -   w grupie odpowiedzialność rozmywa się
+        -   w pojedynke czujemy się bardziej odpowiedzialni, ponieważ wynik zależy tylko od nas
+    -   kierowanie się zasadą nierówności
+        -   jednostka nie zakłada że reszta będzie angażować wszystkich swoich sił, więc sama nie daje z siebie wszystkiego
+    -   chowanie się w tłumie
+        -   grupa daje nam poczucie anonimowości, ciężej znaleść kogoś kto się nie angażuje
+    -   wypełnianie standardu społecznego
+        -   w grupie ciężej o jasne sprecyzowanie oczekiwań wobec poszczegółnych członków zespołu
+            -   jednostka nie wkłada maksymalnego wysiłku podczas pracy w grupie
+-   efekt się pogłębia kiedy
+    -   członkowie grupy są zmęczeni
+        -   zadbaj o dobrostan pracownika, wypoczęcie
+    -   niska spójność grupy
+        -   zadbaj o spójność, zgranie zespołu
+            -   integracje, wspólne pokonywanie wyzwań
+    -   zbyt nudne lub łatwe zadania
+        -   zespół potrzebuje wyzwań
+        -   rozumieć znaczenie wagi dobrego wykonania zadania
+            -  "nie produkujemy poduszek powietrznych, oni produkują bezpieczeństwo dla swoich klientów"
+            -   oprate o wartości zarządzanie likwiduje próżniactwo społeczne!
 
 ## Pozytywne wpływanie na zachowanie i postawe zespołu
 
