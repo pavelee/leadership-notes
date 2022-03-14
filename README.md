@@ -14,6 +14,7 @@
         -   [Swtórz grupę sprawdzoną w boju](#swtórz-grupę-sprawdzoną-w-boju)
 -   [Psychologia grupy i jednostek](#psychologia-grupy-i-jednostek)
     -   [Próżniactwo społeczne](#próżniactwo-społeczne)
+    -   [Rozproszenie odpowiedzialności](#rozproszenie-odpowiedzialności)
 -   [Pozytywne wpływanie na zachowanie i postawe zespołu](#pozytywne-wpływanie-na-zachowanie-i-postawe-zespołu)
 
 ## Źródło
@@ -268,7 +269,9 @@
     -   sprawimy że zdrowsze stanie się całe społeczeństwo
 
 ## Psychologia grupy i jednostek
+
 ### Próżniactwo społeczne
+
 -   efekt polegający na mniejszym angażowaniu się w czynność wykonywaną grupowo niż w przypadku wykonywania jej indywidualnie
     -   jak wykonujemy czynność samodzielnie staramy się
     -   jak wykonujemy grupowo, nie staramy się już tak mocno
@@ -303,8 +306,31 @@
     -   zbyt nudne lub łatwe zadania
         -   zespół potrzebuje wyzwań
         -   rozumieć znaczenie wagi dobrego wykonania zadania
-            -  "nie produkujemy poduszek powietrznych, produkujemy bezpieczeństwo dla swoich klientów"
+            -   "nie produkujemy poduszek powietrznych, produkujemy bezpieczeństwo dla swoich klientów"
             -   oprate o wartości zarządzanie likwiduje próżniactwo społeczne!
+
+### Rozproszenie odpowiedzialności
+
+-   zwany także
+    -   dyfuzją odpowiedzialności
+    -   efekt widza
+    -   efekt obojętnego przechodnia
+-   efekt polega na spadku szansy reakcji świadków kryzysowego zdarzenia wraz ze wzrostem liczby świadków tego zdarzenia
+-   abyśmy zareagowali potrzebujemy poczuć osobistą odpowiedzialność za to co się dzieje
+    -   wraz ze wzrostem ludzi wokół odpowiedzialność rozprasza się co za tym idzie spada szansa na reakcje jednostki
+    -   istotnym czynnikiem jest poczucie anonimowości
+        -   mniej moralne postępowanie i ukrycie się w tyłumie
+    -   wyjątkiem są osoby odgrywające role liderów grupy która obserwuje zdarzenie lub gdy odpowiedzialność jest wpisana w zawód np. lekarz
+-   związane także ze zwiazkiem konformizmu
+    -   sytuajce krytyczne są raczej mało jasne
+        -   nie wiadomo co należy zrobić
+        -   przykładem jest mężczyzna leżący na ziemi, może być postrzegany jako pijany natomiast w rzeczywistośći mieć zawał serca
+    -   zaczynamy obserwować innych aby zrozumieć jak mamy postąpić
+        -   typowie gapie, obserwują innych poszukując odpowiedzi
+        -   problem pojawia się w momencie kiedy inni są bierni, to się skaluje i skutkuje brakiem reakcji (omijanie leżącego na ulicy)
+-   przeciwdziałaj efektowi zwracając się bezpośrednio do wybranej osoby
+    -   zamiast krzyczyeć "pomocy", wskaż palcem osobę aby to ona Ci pomogła
+    -   wyznaczenie konkretnej osoby wytworzy poczucie obowiązku udzielenia pomocy
 
 ## Pozytywne wpływanie na zachowanie i postawe zespołu
 
