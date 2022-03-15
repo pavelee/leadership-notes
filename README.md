@@ -17,7 +17,7 @@
     -   [Rozproszenie odpowiedzialności](#rozproszenie-odpowiedzialności)
 -   [Budowanie realcji z zespołem](#Budowanie-realcji-z-zespołem) 
     -   [Podstawowe zasady w kontaktach z ludzmi](#podstawowe-zasady-w-kontaktach-z-ludzmi)
-    -   [Sześć sposób że ludzie będą Cie lubić](#sześć-sposób-że-ludzie-będą-cie-lubić)
+    -   [Sześć sposób które sprawią że ludzie będą Cie lubić](#sześć-sposób-które-sprawią-że-ludzie-będą-cie-lubić)
     -   [Jak przekonać innych do Twojego sposobu myślenia](#jak-przekonać-innych-do-twojego-sposobu-myślenia)       
     -   [Jak zmieniać ludzi nie zrażając ich i nie zniechęcając](#jak-zmieniać-ludzi-nie-zrażając-ich-i-nie-zniechęcając)
 
@@ -343,7 +343,7 @@
 -   szczerze i uczciwie wyrażaj uznanie
 -   wzbudź w innych szczere chęci
 
-### Sześć sposób że ludzie będą Cie lubić
+### Sześć sposób które sprawią że ludzie będą Cie lubić
 
 -   Okazuj ludziom szczere zainteresowanie
 -   Uśmiechaj się
