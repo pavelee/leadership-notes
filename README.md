@@ -16,6 +16,8 @@
     -   [Próżniactwo społeczne](#próżniactwo-społeczne)
     -   [Rozproszenie odpowiedzialności](#rozproszenie-odpowiedzialności)
 -   [Budowanie realcji z zespołem](#Budowanie-realcji-z-zespołem) 
+    -   [Podstawowe zasady w kontaktach z ludzmi](#podstawowe-zasady-w-kontaktach-z-ludzmi)
+    -   [Sześć sposób że ludzie będą Cie lubić](#sześć-sposób-że-ludzie-będą-cie-lubić)
     -   [Jak przekonać innych do Twojego sposobu myślenia](#jak-przekonać-innych-do-twojego-sposobu-myślenia)       
     -   [Jak zmieniać ludzi nie zrażając ich i nie zniechęcając](#jak-zmieniać-ludzi-nie-zrażając-ich-i-nie-zniechęcając)
 
@@ -335,6 +337,20 @@
     -   wyznaczenie konkretnej osoby wytworzy poczucie obowiązku udzielenia pomocy
 
 ## Budowanie realcji z zespołem
+
+### Podstawowe zasady w kontaktach z ludzmi
+-   nie krytykuj, nie potępiaj, nie pouczaj
+-   szczerze i uczciwie wyrażaj uznanie
+-   wzbudź w innych szczere chęci
+
+### Sześć sposób że ludzie będą Cie lubić
+
+-   Okazuj ludziom szczere zainteresowanie
+-   Uśmiechaj się
+-   Pamiętaj że własne imie dla człowieka to najważniejsze słowo
+-   Bądź dobrym słuchaczem, zachęcaj rozmówce aby mówił o sobie samym
+-   Mów o tym co interesuje Twojego rozmówcę
+-   Spraw aby Twój rozmówca poczuł się ważny i zrób to szczerze
 
 ### Jak przekonać innych do Twojego sposobu myślenia
 -   Jedyny sposób aby wygrać w kłotni to unikać jej
