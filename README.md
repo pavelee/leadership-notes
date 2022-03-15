@@ -337,18 +337,18 @@
 ## Budowanie realcji z zespołem
 
 ### Jak przekonać innych do Twojego sposobu myślenia
-    -   Jedyny sposób aby wygrać w kłotni to unikać jej
-    -   Okaż szacunek do poglądów rozmówcy, nigdy nie mów mu: nie masz racji
-    -   Jeśli nie masz racji, przyznaj to szybko i bardzo wyraźnie
-    -   Zacznij od okazania przyjaźni
-    -   Jak najszbciej wydobądź z rozmówcy liczne tak
-    -   pozwól rozmówcy wygadać się
-    -   daj rozmówcy myśleć że Twoja idea wyszła od niego
-    -   szczerze próbuj przyjmować punkt widzenia Twojego rozmówcy
-    -   okaż zrozumienie i współczuj z myślami i pragnieniami rozmówcy
-    -   odwołaj się do szlachetności rozmówcy
-    -   udramatyzuj swoje pomysły
-    -   rzuć człowiekowi wyzwanie
+-   Jedyny sposób aby wygrać w kłotni to unikać jej
+-   Okaż szacunek do poglądów rozmówcy, nigdy nie mów mu: nie masz racji
+-   Jeśli nie masz racji, przyznaj to szybko i bardzo wyraźnie
+-   Zacznij od okazania przyjaźni
+-   Jak najszbciej wydobądź z rozmówcy liczne tak
+-   pozwól rozmówcy wygadać się
+-   daj rozmówcy myśleć że Twoja idea wyszła od niego
+-   szczerze próbuj przyjmować punkt widzenia Twojego rozmówcy
+-   okaż zrozumienie i współczuj z myślami i pragnieniami rozmówcy
+-   odwołaj się do szlachetności rozmówcy
+-   udramatyzuj swoje pomysły
+-   rzuć człowiekowi wyzwanie
 ### Jak zmieniać ludzi nie zrażając ich i nie zniechęcając
 
 -   Zacznij od szczerej pochwały i uznania
