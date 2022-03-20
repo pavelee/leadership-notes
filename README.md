@@ -2,6 +2,7 @@
 
 -   [Źródło](#źródło)
 -   [Lider wystaczająco dobry](#lider-wystaczająco-dobry)
+    -   [5 wielkich cech osobowości i ich znacznie dla lidera](#5-wielkich-cech-osobowości-i-ich-znacznie-dla-lidera)
 -   [Tworzenie grupy realnej](#tworzenie-grupy-realnej)
     -   [Dysfunkcyjna grupa](#dysfunkcyjna-grupa)
     -   [Grupa realna](#grupa-realna)
