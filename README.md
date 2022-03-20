@@ -27,7 +27,7 @@
 -   "Prawa ludzkiej natury" - Robert Greene
 -   "Jak zdobyć przyjaciół i zjednać sobie ludzi" - Dale Carnegie
 -   "PSYCHOefekty. 50 zjawisk psychologicznych, które wpływają na Twoje życie" - Kamil Zieliński
--   Lider wystarczająco dobry. 12 lekcji autentycznego przywództwa na czasy niepewności - Piotr Prokopowicz, Sebastian Drzewiecki
+-   "Lider wystarczająco dobry. 12 lekcji autentycznego przywództwa na czasy niepewności" - Piotr Prokopowicz, Sebastian Drzewiecki
 
 ## Lider wystaczająco dobry
 
