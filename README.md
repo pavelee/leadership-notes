@@ -95,14 +95,14 @@
     -   wczesne etapy IBM
     -   początki gabinetu Roosevelta
 
-## Strategie tworzenia grupy realnej
+### Strategie tworzenia grupy realnej
 
 -   należy wprowadzić wszystkie w życie
     -   ciężej wprowadzić w przypadku skonstniałej kultury
     -   wymaga cierpliwości i zaangażowania
     -   walczymy z dysfunkcyjną dynamiką grupy
 
-### Zasczepiaj kolektywne poczucie celu
+#### Zasczepiaj kolektywne poczucie celu
 
 -   potrzebujemy siły społecznej, które wywołuje poczucie przynależności i integracji, następnie ukierunkować na wyższy cel
 -   grupu musi mieć jednoznaczny cel
@@ -123,7 +123,7 @@
     -   wysokie morale sprawiąją że grupa sama się kontroluje
         -   jednostki małostkowe i egoistyczne zostaną odizolowane
 
-### Stwórz odpowiedni zespół asystentów
+#### Stwórz odpowiedni zespół asystentów
 
 -   Jako lider potrzebujesz zapewnić sobie szeroką perspektywę i skupić się na celach ogólnych
 -   mamy ograniczony zasób mentalnej energii i musimy umieć nią gospodarować
@@ -153,7 +153,7 @@
         -   wydobywać to co najlepsze
         -   taki duch oczekujemy od grupy
 
-### Wszystkich traktuj na równi
+#### Wszystkich traktuj na równi
 
 -   niezależnie czy to asystent, podwładny
 -   żadnych specjalnych przywilejów
@@ -161,14 +161,14 @@
 -   Osób które nie dotrzymują wierności ideałowi należy się pozbywać
 -   W momencie zatrudniania nowych osób zostaną automatycznie wciągnieci przez zdrową dynamikę
 
-### Musisz być stale na czele
+#### Musisz być stale na czele
 
 -   Równy udział w poświęceniach
     -   tak samo jak każdy członek zespołu
     -   dzięki temu podwłądni będą mniej podatni na odczuwanie zazdrości oraz urazy
         -   omijamy problem podziałówi i machinacji
 
-### Zapewniaj swobodny przepływ informacji i idei
+#### Zapewniaj swobodny przepływ informacji i idei
 
 -   Jak grupa ewoluje to największym ryzykiem jest tworzenie się wokół lidera bańki
     -   Asystenci którzy przejmują obowiązki zaczną Cie izolować od tego co się dzieje w grupie
@@ -206,7 +206,7 @@
     -   zachęcaj do stałego doskonalenia i nauki
         -   nauka na błędach spowoduje że zespół stanie się zanczeni bardziej pewny siebie i zacznie odważniej podążać na przód
 
-### Zarażaj grupę pozytywnymi emocjami
+#### Zarażaj grupę pozytywnymi emocjami
 
 -   w grupie ludzie są bardziej emocjonalni i podatni na nastroje innych
     -   kieruj to w pozytywną stronę, nasycając grupę odpowiednim zestawem emocji
@@ -234,7 +234,7 @@
         -   członkie grupy staną się mniej defensywni
         -   zachęci ich to do samodzielnego działania
 
-### Swtórz grupę sprawdzoną w boju
+#### Swtórz grupę sprawdzoną w boju
 
 -   Musisz dobrze poznać swoją grupę
     -   mocne i słabe strony
