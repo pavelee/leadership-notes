@@ -1,6 +1,7 @@
 # Notatki na temat przewództwa
 
 -   [Źródło](#źródło)
+-   [Lider wystaczająco dobry](#lider-wystaczająco-dobry)
 -   [Tworzenie grupy realnej](#tworzenie-grupy-realnej)
     -   [Dysfunkcyjna grupa](#dysfunkcyjna-grupa)
     -   [Grupa realna](#grupa-realna)
@@ -26,6 +27,9 @@
 -   "Prawa ludzkiej natury" - Robert Greene
 -   "Jak zdobyć przyjaciół i zjednać sobie ludzi" - Dale Carnegie
 -   "PSYCHOefekty. 50 zjawisk psychologicznych, które wpływają na Twoje życie" - Kamil Zieliński
+-   Lider wystarczająco dobry. 12 lekcji autentycznego przywództwa na czasy niepewności - Piotr Prokopowicz, Sebastian Drzewiecki
+
+## Lider wystaczająco dobry
 
 ## Tworzenie grupy realnej
 
