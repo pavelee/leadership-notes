@@ -34,50 +34,50 @@
 
 ### 5 wielkich cech osobowości i ich znacznie dla lidera
 
--   ekstrawersja
-    -   zaangażowanie jednostki w świat zewnętrzny oraz stymulacji jakiej potrzebuje w życiu codziennym
-    -   takie osoby są postrzegane
-        -   pełne energii 
-        -   pozytywne
-        -   rozmowne
-        -   opisywane jako dusze towarzystwa
-    -   wpływa pozytywnie na szanse pozostania liderem oraz efektywność przewództwa
-    -   cecha osobowości najbardziej predysponująca do przewództwa
--   stabilność emocjonalna
-    -   przeciwieństwo neurotyzmu
-        -   tendencja do doświadczania negatywnych emocji
-            -    niepewności
-            -   lęku
-            -   depresji
-    -   osoby o nisiej stabilności emocjonalnej reagują negatywnie nawet na niewielkie negatywne zdarzenia
-        -   identyfikowanie najmniejszych wyzwań jako trudnych i beznadziejnych
-    -   wysoka stabilność emocjonalna znacząco zwiększa szanse zostania liderem oraz wpyływa pozytywnie na efektywność przewództwa
--   ugodowość
-    -   cecha opisująca zdolość współpracy oraz harmonii z innymi
-        -   przyjazne
-        -   pomocne
-        -   hojne
-        -   skłonne do ugody
-    -   takie osoby po prostu lubią innych ludzi
-    -   nie ma wpływu na szanse zostanie liderem
-        -   natomiast jest korzytna dla osób które są już liderami
-            -   zwiększa ich efektywność na podonym poziomie co stabilność emocjonalna
--   sumienność
-    -   cecha opisująca jak dana osoba potrawi zarządzać swoimi impulsami
-    -   potrawią odroczyć bezpośrednie korzyści na rzecz długofalowych planów
-    -   postrzegane jako
-        -   odpowiedzalne
-        -   zrównoważone
-        -   obdarzone silną wolą
-    -   unikają szybkich, nie kontrolowanych decyzji
-    -   zwiększa szanse na zostanie liderem, natomiast nie zwiększa efektywności zdolności przywódzczych
--   otwartość na doświadczenie 
-    -   cecha postawy wobec nowości
-        -   odróżnia osoby kreatywne od konwencjonalnych
-    -   ciekawe świata
-    -   wrażliwe na piękno
-    -   doceniają sztukę
-    -   zwiększa szanse na zostanie liderem i efektywność przywódczą
+#### ekstrawersja
+-   zaangażowanie jednostki w świat zewnętrzny oraz stymulacji jakiej potrzebuje w życiu codziennym
+-   takie osoby są postrzegane
+    -   pełne energii 
+    -   pozytywne
+    -   rozmowne
+    -   opisywane jako dusze towarzystwa
+-   wpływa pozytywnie na szanse pozostania liderem oraz efektywność przewództwa
+-   cecha osobowości najbardziej predysponująca do przewództwa
+#### stabilność emocjonalna
+-   przeciwieństwo neurotyzmu
+    -   tendencja do doświadczania negatywnych emocji
+        -    niepewności
+        -   lęku
+        -   depresji
+-   osoby o nisiej stabilności emocjonalnej reagują negatywnie nawet na niewielkie negatywne zdarzenia
+    -   identyfikowanie najmniejszych wyzwań jako trudnych i beznadziejnych
+-   wysoka stabilność emocjonalna znacząco zwiększa szanse zostania liderem oraz wpyływa pozytywnie na efektywność przewództwa
+#### ugodowość
+-   cecha opisująca zdolość współpracy oraz harmonii z innymi
+    -   przyjazne
+    -   pomocne
+    -   hojne
+    -   skłonne do ugody
+-   takie osoby po prostu lubią innych ludzi
+-   nie ma wpływu na szanse zostanie liderem
+    -   natomiast jest korzytna dla osób które są już liderami
+        -   zwiększa ich efektywność na podonym poziomie co stabilność emocjonalna
+#### sumienność
+-   cecha opisująca jak dana osoba potrawi zarządzać swoimi impulsami
+-   potrawią odroczyć bezpośrednie korzyści na rzecz długofalowych planów
+-   postrzegane jako
+    -   odpowiedzalne
+    -   zrównoważone
+    -   obdarzone silną wolą
+-   unikają szybkich, nie kontrolowanych decyzji
+-   zwiększa szanse na zostanie liderem, natomiast nie zwiększa efektywności zdolności przywódzczych
+#### otwartość na doświadczenie 
+-   cecha postawy wobec nowości
+    -   odróżnia osoby kreatywne od konwencjonalnych
+-   ciekawe świata
+-   wrażliwe na piękno
+-   doceniają sztukę
+-   zwiększa szanse na zostanie liderem i efektywność przywódczą
 
 
 ## Tworzenie grupy realnej
