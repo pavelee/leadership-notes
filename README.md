@@ -34,7 +34,7 @@
 
 ### 5 wielkich cech osobowości i ich znacznie dla lidera
 
-#### ekstrawersja
+#### Ekstrawersja
 -   zaangażowanie jednostki w świat zewnętrzny oraz stymulacji jakiej potrzebuje w życiu codziennym
 -   takie osoby są postrzegane
     -   pełne energii 
@@ -43,7 +43,7 @@
     -   opisywane jako dusze towarzystwa
 -   wpływa pozytywnie na szanse pozostania liderem oraz efektywność przewództwa
 -   cecha osobowości najbardziej predysponująca do przewództwa
-#### stabilność emocjonalna
+#### Stabilność emocjonalna
 -   przeciwieństwo neurotyzmu
     -   tendencja do doświadczania negatywnych emocji
         -    niepewności
@@ -52,7 +52,7 @@
 -   osoby o nisiej stabilności emocjonalnej reagują negatywnie nawet na niewielkie negatywne zdarzenia
     -   identyfikowanie najmniejszych wyzwań jako trudnych i beznadziejnych
 -   wysoka stabilność emocjonalna znacząco zwiększa szanse zostania liderem oraz wpyływa pozytywnie na efektywność przewództwa
-#### ugodowość
+#### Ugodowość
 -   cecha opisująca zdolość współpracy oraz harmonii z innymi
     -   przyjazne
     -   pomocne
@@ -62,7 +62,7 @@
 -   nie ma wpływu na szanse zostanie liderem
     -   natomiast jest korzytna dla osób które są już liderami
         -   zwiększa ich efektywność na podonym poziomie co stabilność emocjonalna
-#### sumienność
+#### Sumienność
 -   cecha opisująca jak dana osoba potrawi zarządzać swoimi impulsami
 -   potrawią odroczyć bezpośrednie korzyści na rzecz długofalowych planów
 -   postrzegane jako
@@ -71,7 +71,7 @@
     -   obdarzone silną wolą
 -   unikają szybkich, nie kontrolowanych decyzji
 -   zwiększa szanse na zostanie liderem, natomiast nie zwiększa efektywności zdolności przywódzczych
-#### otwartość na doświadczenie 
+#### Otwartość na doświadczenie 
 -   cecha postawy wobec nowości
     -   odróżnia osoby kreatywne od konwencjonalnych
 -   ciekawe świata
