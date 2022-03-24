@@ -15,6 +15,7 @@
         -   [Zarażaj grupę pozytywnymi emocjami](#zarażaj-grupę-pozytywnymi-emocjami)
         -   [Swtórz grupę sprawdzoną w boju](#swtórz-grupę-sprawdzoną-w-boju)
 -   [Psychologia grupy i jednostek](#psychologia-grupy-i-jednostek)
+    -   [Konformizm](#konformizm)
     -   [Próżniactwo społeczne](#próżniactwo-społeczne)
     -   [Rozproszenie odpowiedzialności](#rozproszenie-odpowiedzialności)
 -   [Budowanie realcji z zespołem](#Budowanie-realcji-z-zespołem) 
