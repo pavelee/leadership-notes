@@ -370,6 +370,7 @@
 ## Psychologia grupy i jednostek
 
 ### Konformizm
+-   TO DO
 ### Próżniactwo społeczne
 
 -   efekt polegający na mniejszym angażowaniu się w czynność wykonywaną grupowo niż w przypadku wykonywania jej indywidualnie
