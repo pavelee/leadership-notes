@@ -14,15 +14,15 @@
         -   [Zapewniaj swobodny przepływ informacji i idei](#zapewniaj-swobodny-przepływ-informacji-i-idei)
         -   [Zarażaj grupę pozytywnymi emocjami](#zarażaj-grupę-pozytywnymi-emocjami)
         -   [Swtórz grupę sprawdzoną w boju](#swtórz-grupę-sprawdzoną-w-boju)
--   [Psychologia grupy i jednostek](#psychologia-grupy-i-jednostek)
-    -   [Konformizm](#konformizm)
-    -   [Próżniactwo społeczne](#próżniactwo-społeczne)
-    -   [Rozproszenie odpowiedzialności](#rozproszenie-odpowiedzialności)
 -   [Budowanie realcji z zespołem](#Budowanie-realcji-z-zespołem) 
     -   [Podstawowe zasady w kontaktach z ludzmi](#podstawowe-zasady-w-kontaktach-z-ludzmi)
     -   [Sześć sposób które sprawią że ludzie będą Cie lubić](#sześć-sposób-które-sprawią-że-ludzie-będą-cie-lubić)
     -   [Jak przekonać innych do Twojego sposobu myślenia](#jak-przekonać-innych-do-twojego-sposobu-myślenia)       
-    -   [Jak zmieniać ludzi nie zrażając ich i nie zniechęcając](#jak-zmieniać-ludzi-nie-zrażając-ich-i-nie-zniechęcając)
+    -   [Jak zmieniać ludzi nie zrażając ich i nie zniechęcając](#jak-zmieniać-ludzi-nie-zrażając-ich-i-nie-zniechęcając)        
+-   [Psychologia grupy i jednostek](#psychologia-grupy-i-jednostek)
+    -   [Konformizm](#konformizm)
+    -   [Próżniactwo społeczne](#próżniactwo-społeczne)
+    -   [Rozproszenie odpowiedzialności](#rozproszenie-odpowiedzialności)
 
 ## Źródło
 
@@ -326,6 +326,47 @@
 -   Naszym obowiązkiem jako osób oświęconych powinno być tworzenie jak największej ilości grup realnych
     -   sprawimy że zdrowsze stanie się całe społeczeństwo
 
+## Budowanie realcji z zespołem
+
+### Podstawowe zasady w kontaktach z ludzmi
+-   nie krytykuj, nie potępiaj, nie pouczaj
+-   szczerze i uczciwie wyrażaj uznanie
+-   wzbudź w innych szczere chęci
+
+### Sześć sposób które sprawią że ludzie będą Cie lubić
+
+-   Okazuj ludziom szczere zainteresowanie
+-   Uśmiechaj się
+-   Pamiętaj że własne imie dla człowieka to najważniejsze słowo
+-   Bądź dobrym słuchaczem, zachęcaj rozmówce aby mówił o sobie samym
+-   Mów o tym co interesuje Twojego rozmówcę
+-   Spraw aby Twój rozmówca poczuł się ważny i zrób to szczerze
+
+### Jak przekonać innych do Twojego sposobu myślenia
+-   Jedyny sposób aby wygrać w kłotni to unikać jej
+-   Okaż szacunek do poglądów rozmówcy, nigdy nie mów mu: nie masz racji
+-   Jeśli nie masz racji, przyznaj to szybko i bardzo wyraźnie
+-   Zacznij od okazania przyjaźni
+-   Jak najszbciej wydobądź z rozmówcy liczne tak
+-   pozwól rozmówcy wygadać się
+-   daj rozmówcy myśleć że Twoja idea wyszła od niego
+-   szczerze próbuj przyjmować punkt widzenia Twojego rozmówcy
+-   okaż zrozumienie i współczuj z myślami i pragnieniami rozmówcy
+-   odwołaj się do szlachetności rozmówcy
+-   udramatyzuj swoje pomysły
+-   rzuć człowiekowi wyzwanie
+### Jak zmieniać ludzi nie zrażając ich i nie zniechęcając
+
+-   Zacznij od szczerej pochwały i uznania
+-   Zwaracaj na błędy innych pośrednio
+-   Zanim skrytykujesz innych, przyznaj się do własnych błędów
+-   Zadawaj pytania, zamiast wydawać rozkazy
+-   Pozwól ludziom zachować twarz
+-   Pochwal najmniejsze nawet osiągniecia, pochwal każdy postęp, bądz szczery w aprobacie i nie skąp pochwał
+-   Wystaw ludziom dobrą opinie której będą musieli sprostać
+-   Zachęcaj innych do poprawy, spraw aby uwierzyli że mogą się zmienić
+-   Spraw aby rozmówca z przyjemnością zrobił to czego oczekujesz
+
 ## Psychologia grupy i jednostek
 
 ### Konformizm
@@ -390,44 +431,3 @@
 -   przeciwdziałaj efektowi zwracając się bezpośrednio do wybranej osoby
     -   zamiast krzyczyeć "pomocy", wskaż palcem osobę aby to ona Ci pomogła
     -   wyznaczenie konkretnej osoby wytworzy poczucie obowiązku udzielenia pomocy
-
-## Budowanie realcji z zespołem
-
-### Podstawowe zasady w kontaktach z ludzmi
--   nie krytykuj, nie potępiaj, nie pouczaj
--   szczerze i uczciwie wyrażaj uznanie
--   wzbudź w innych szczere chęci
-
-### Sześć sposób które sprawią że ludzie będą Cie lubić
-
--   Okazuj ludziom szczere zainteresowanie
--   Uśmiechaj się
--   Pamiętaj że własne imie dla człowieka to najważniejsze słowo
--   Bądź dobrym słuchaczem, zachęcaj rozmówce aby mówił o sobie samym
--   Mów o tym co interesuje Twojego rozmówcę
--   Spraw aby Twój rozmówca poczuł się ważny i zrób to szczerze
-
-### Jak przekonać innych do Twojego sposobu myślenia
--   Jedyny sposób aby wygrać w kłotni to unikać jej
--   Okaż szacunek do poglądów rozmówcy, nigdy nie mów mu: nie masz racji
--   Jeśli nie masz racji, przyznaj to szybko i bardzo wyraźnie
--   Zacznij od okazania przyjaźni
--   Jak najszbciej wydobądź z rozmówcy liczne tak
--   pozwól rozmówcy wygadać się
--   daj rozmówcy myśleć że Twoja idea wyszła od niego
--   szczerze próbuj przyjmować punkt widzenia Twojego rozmówcy
--   okaż zrozumienie i współczuj z myślami i pragnieniami rozmówcy
--   odwołaj się do szlachetności rozmówcy
--   udramatyzuj swoje pomysły
--   rzuć człowiekowi wyzwanie
-### Jak zmieniać ludzi nie zrażając ich i nie zniechęcając
-
--   Zacznij od szczerej pochwały i uznania
--   Zwaracaj na błędy innych pośrednio
--   Zanim skrytykujesz innych, przyznaj się do własnych błędów
--   Zadawaj pytania, zamiast wydawać rozkazy
--   Pozwól ludziom zachować twarz
--   Pochwal najmniejsze nawet osiągniecia, pochwal każdy postęp, bądz szczery w aprobacie i nie skąp pochwał
--   Wystaw ludziom dobrą opinie której będą musieli sprostać
--   Zachęcaj innych do poprawy, spraw aby uwierzyli że mogą się zmienić
--   Spraw aby rozmówca z przyjemnością zrobił to czego oczekujesz
