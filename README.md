@@ -370,7 +370,39 @@
 ## Psychologia grupy i jednostek
 
 ### Konformizm
--   TO DO
+-   podporządkowanie się jednostki do poglądów, wartości, norm i zasad obowiązujących w danej grupie społecznej
+    -   pod wpływem rzeczywistego lub wyobrażonego wpływu innych ludzi z grupy społecznej następuje zmiana zachowania u jednostki
+-   Dwa typu konformizmu
+    -   normatywny
+        -   potrzeba bycia akceptowanym przez grupę lub lękiem przed odrzuceniem przez grupę
+            -   "chcę być członkiem grupy, boje się że grupa mnie odrzuci jeśli wyraże inne zdanie"
+        -   przykładem jest moda
+    -   informacyjny
+        -   potrzeba podejmowania słusznych decyzji oraz działań
+            -   kiedy człowiek nie posiada wystarczająco wiedzy aby podjąć w soim mniemaniu słuszną decyzje podszukuję informacji w zachowaniu innych ludzi i zaczyna się zachowywać podobnie
+            -   "nie wiem jak postąpić, widzę jak ludzie postępują w określony sposób, zaczynam zachowywać się podobnie"
+        -   przykładem jest sytuacja w której nie znamy dworca na którym się znajdujemy, więc pożądamy za resztą współpasażerów licząc że oni wiedzą gdzie znajduję się wyjście
+-   nazwanie kogoś konformistą jest odbierane jako obelga
+    -   rozumiane jest jako osoba uległa, nie umiejąca wyraźić swojego zdania, nie posiadająca kręgosłupa moralnego
+-   konformizm nie jest złym, ani dobrym zjawiskiem
+    -   jest nam potrzebny aby społeczństwo opartę o normy społeczne mogło sprawnie funkcjonować
+        -   dzięki konformizowi przestarzegamy norm społecznych
+        -   potrawimy zawierać kompromisy i porozumienia
+    -   jednocześnie może nam wyrządzić wiele złego
+        -   szególnie kiedy jest
+            -   na wysokim poziomie
+            -   łączy się z niską samooceną
+            -   nie jest poddawany krytycznemu osądowi
+        -   może to być bomba uniemożliwiająca podejmowanie jakikolwiek decyzji
+        -   sytuacja kiedy 
+            -   nawet o najmniejszą rzecz pytamy innych ludzi lub Googla
+            -   podejmujemy złą decyzje bo większość tak robi
+-   zachowaniem przeciwnym jest nonkonformizm
+    -   jest to potrzebne zjawisko
+    -   potrzebny jest ktoś kto zwróci uwagę że zmierzamy w złym kierunku
+    -   powstrzymać owczy pęd i regułę społecznego dowodu słuszności
+    -   nonkonformiści są nazywani buntownikami
+        -   dobry bunt jest potrzebny dla społeczeństwa
 ### Próżniactwo społeczne
 
 -   efekt polegający na mniejszym angażowaniu się w czynność wykonywaną grupowo niż w przypadku wykonywania jej indywidualnie
