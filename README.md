@@ -14,15 +14,16 @@
         -   [Zapewniaj swobodny przepływ informacji i idei](#zapewniaj-swobodny-przepływ-informacji-i-idei)
         -   [Zarażaj grupę pozytywnymi emocjami](#zarażaj-grupę-pozytywnymi-emocjami)
         -   [Swtórz grupę sprawdzoną w boju](#swtórz-grupę-sprawdzoną-w-boju)
--   [Budowanie realcji z zespołem](#Budowanie-realcji-z-zespołem) 
+-   [Budowanie realcji z zespołem](#Budowanie-realcji-z-zespołem)
     -   [Podstawowe zasady w kontaktach z ludzmi](#podstawowe-zasady-w-kontaktach-z-ludzmi)
     -   [Sześć sposób które sprawią że ludzie będą Cie lubić](#sześć-sposób-które-sprawią-że-ludzie-będą-cie-lubić)
-    -   [Jak przekonać innych do Twojego sposobu myślenia](#jak-przekonać-innych-do-twojego-sposobu-myślenia)       
-    -   [Jak zmieniać ludzi nie zrażając ich i nie zniechęcając](#jak-zmieniać-ludzi-nie-zrażając-ich-i-nie-zniechęcając)        
+    -   [Jak przekonać innych do Twojego sposobu myślenia](#jak-przekonać-innych-do-twojego-sposobu-myślenia)
+    -   [Jak zmieniać ludzi nie zrażając ich i nie zniechęcając](#jak-zmieniać-ludzi-nie-zrażając-ich-i-nie-zniechęcając)
 -   [Psychologia grupy i jednostek](#psychologia-grupy-i-jednostek)
     -   [Konformizm](#konformizm)
     -   [Próżniactwo społeczne](#próżniactwo-społeczne)
     -   [Rozproszenie odpowiedzialności](#rozproszenie-odpowiedzialności)
+    -   [Syndrom myślenia grupowego](#syndrom-myślenia-grupowego)
 
 ## Źródło
 
@@ -36,24 +37,29 @@
 ### 5 wielkich cech osobowości i ich znacznie dla lidera
 
 #### Ekstrawersja
+
 -   zaangażowanie jednostki w świat zewnętrzny oraz stymulacji jakiej potrzebuje w życiu codziennym
 -   takie osoby są postrzegane
-    -   pełne energii 
+    -   pełne energii
     -   pozytywne
     -   rozmowne
     -   opisywane jako dusze towarzystwa
 -   wpływa pozytywnie na szanse pozostania liderem oraz efektywność przewództwa
 -   cecha osobowości najbardziej predysponująca do przewództwa
+
 #### Stabilność emocjonalna
+
 -   przeciwieństwo neurotyzmu
     -   tendencja do doświadczania negatywnych emocji
-        -    niepewności
+        -   niepewności
         -   lęku
         -   depresji
 -   osoby o nisiej stabilności emocjonalnej reagują negatywnie nawet na niewielkie negatywne zdarzenia
     -   identyfikowanie najmniejszych wyzwań jako trudnych i beznadziejnych
 -   wysoka stabilność emocjonalna znacząco zwiększa szanse zostania liderem oraz wpyływa pozytywnie na efektywność przewództwa
+
 #### Ugodowość
+
 -   cecha opisująca zdolość współpracy oraz harmonii z innymi
     -   przyjazne
     -   pomocne
@@ -63,7 +69,9 @@
 -   nie ma wpływu na szanse zostanie liderem
     -   natomiast jest korzytna dla osób które są już liderami
         -   zwiększa ich efektywność na podonym poziomie co stabilność emocjonalna
+
 #### Sumienność
+
 -   cecha opisująca jak dana osoba potrawi zarządzać swoimi impulsami
 -   potrawią odroczyć bezpośrednie korzyści na rzecz długofalowych planów
 -   postrzegane jako
@@ -72,14 +80,15 @@
     -   obdarzone silną wolą
 -   unikają szybkich, nie kontrolowanych decyzji
 -   zwiększa szanse na zostanie liderem, natomiast nie zwiększa efektywności zdolności przywódzczych
-#### Otwartość na doświadczenie 
+
+#### Otwartość na doświadczenie
+
 -   cecha postawy wobec nowości
     -   odróżnia osoby kreatywne od konwencjonalnych
 -   ciekawe świata
 -   wrażliwe na piękno
 -   doceniają sztukę
 -   zwiększa szanse na zostanie liderem i efektywność przywódczą
-
 
 ## Tworzenie grupy realnej
 
@@ -329,6 +338,7 @@
 ## Budowanie realcji z zespołem
 
 ### Podstawowe zasady w kontaktach z ludzmi
+
 -   nie krytykuj, nie potępiaj, nie pouczaj
 -   szczerze i uczciwie wyrażaj uznanie
 -   wzbudź w innych szczere chęci
@@ -343,6 +353,7 @@
 -   Spraw aby Twój rozmówca poczuł się ważny i zrób to szczerze
 
 ### Jak przekonać innych do Twojego sposobu myślenia
+
 -   Jedyny sposób aby wygrać w kłotni to unikać jej
 -   Okaż szacunek do poglądów rozmówcy, nigdy nie mów mu: nie masz racji
 -   Jeśli nie masz racji, przyznaj to szybko i bardzo wyraźnie
@@ -355,6 +366,7 @@
 -   odwołaj się do szlachetności rozmówcy
 -   udramatyzuj swoje pomysły
 -   rzuć człowiekowi wyzwanie
+
 ### Jak zmieniać ludzi nie zrażając ich i nie zniechęcając
 
 -   Zacznij od szczerej pochwały i uznania
@@ -370,6 +382,7 @@
 ## Psychologia grupy i jednostek
 
 ### Konformizm
+
 -   podporządkowanie się jednostki do poglądów, wartości, norm i zasad obowiązujących w danej grupie społecznej
     -   pod wpływem rzeczywistego lub wyobrażonego wpływu innych ludzi z grupy społecznej następuje zmiana zachowania u jednostki
 -   Dwa typu konformizmu
@@ -394,7 +407,7 @@
             -   łączy się z niską samooceną
             -   nie jest poddawany krytycznemu osądowi
         -   może to być bomba uniemożliwiająca podejmowanie jakikolwiek decyzji
-        -   sytuacja kiedy 
+        -   sytuacja kiedy
             -   nawet o najmniejszą rzecz pytamy innych ludzi lub Googla
             -   podejmujemy złą decyzje bo większość tak robi
 -   zachowaniem przeciwnym jest nonkonformizm
@@ -403,6 +416,7 @@
     -   powstrzymać owczy pęd i regułę społecznego dowodu słuszności
     -   nonkonformiści są nazywani buntownikami
         -   dobry bunt jest potrzebny dla społeczeństwa
+
 ### Próżniactwo społeczne
 
 -   efekt polegający na mniejszym angażowaniu się w czynność wykonywaną grupowo niż w przypadku wykonywania jej indywidualnie
@@ -464,3 +478,50 @@
 -   przeciwdziałaj efektowi zwracając się bezpośrednio do wybranej osoby
     -   zamiast krzyczyeć "pomocy", wskaż palcem osobę aby to ona Ci pomogła
     -   wyznaczenie konkretnej osoby wytworzy poczucie obowiązku udzielenia pomocy
+
+### Syndrom myślenia grupowego
+
+-   zwany również gromadomyśleniem (group think)
+-   Uleganie ograniczającemu naciskowi i sugestii grupy do której się przynależy 
+    -   efekt działa dzięki grupowej cenzurze przez którą indywidualne jednostki zubożają swoje zdolności intelektualne
+-   W skrajnym przypaku może prowadzić do izolacji grupy od otoczenia
+    -   zamknięcie się we własnym świecie
+    -   utrata poczucia realności
+-   inne cechy grupy z efektem myślenia grupowego
+    -   przecenienia przez grupy swoiej siły oraz zdolności działania
+    -   iluzja nieomylności i pewności siebie
+    -   lekceważenie niepomyślnych informacji
+    -   nieuwzględnienie moralnych i etycznych aspektów decyzji
+    -   lekceważenie wyników osób spoza zespołu
+    -   nacisk na konformizm
+    -   samocenzurowanie się
+    -   iluzja jednomyślności
+    -   filtrowanie informacji tylko do tych które są zgodne z myśleniem grupowym
+-   ogranicznie perspektywy prowadzi do licznych kryzysów
+-   członkowie grupy nie poszukują innej perspektywy
+    -   nierealistyczny optymizm
+    -   pycha
+    -   nieuzasadnione samozadowolenie
+-   syndrom pojawia się w grupach gdzie decyzje są podejmowanie
+    -   bez wystarczającej ilości informacji 
+    -   pod dużą presja i stresem
+-   wewnętrzna dynamika takiej grupy
+    -   spójność grupy staję się celem samym w sobie
+        -   dążenie do spójności kosztem blokowania głosów sprzeciwu
+        -   komformizm normatywny 
+-   aby przeciwdziałać
+    -   Lider grupy musi promować wyrażanie własnych wątpliwości
+        -   członkowie grupy muszą mieć poczucie że mogą krytykować decyzje lidera
+    -   Lider powinnien być bezstronny
+        -   wymaga to obiektywnego podejścia
+    -   Potrzeba kilku niezależnych grup które podejmują decyzje i oceniają się wzajemnie
+        -   grupy powinny mieć innych liderów
+    -   Grupę warto co jakiś czas podzielić na mniejsze podgrupy z tym samym celem
+        -   następnie podgrupy złączyć w jedną grupę i zderzyć różne poglądy
+    -   Grupa powinna korzystać z konsultacji z ekspertem który nie jest jej członkiem
+    -   Jednemu członkowi grupy przypisać role "Adwokata diabła"
+        -   wyszukiwanie i zgłaszanie wszelkich wątpliwości tzw. "szukania dziury w całym"
+        -   rola to powinna być przechodnia
+    -   przed podjęciem ostatecznej dezyzji, spotkanie "ostatniej szansy"
+        -   każdy z członków ma możliwość wyrażenia jeszcze raz swoich wątpliwości i przemyśleń
+        -   zwiększa to szansę na podjęcie rozważnej i odpowiedzialnej decyzji
